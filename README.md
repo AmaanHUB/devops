@@ -53,9 +53,5 @@ See image below to understand the differences between them.
 * Hybrid:
 	* A mixture of on premises and in the public cloud .e.g. using servers on premises for crunching high intensity calculations, with an instance in the public cloud on AWS as a back up for data
 * Public Cloud:
-	* A 'server' that you can rent time and space on, everything is on this.
-
-
-
-
+	* A 'server' that you can rent time and space on, everything is on it .e.g. AWS
 
