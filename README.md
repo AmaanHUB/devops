@@ -45,6 +45,12 @@ See image below to understand the differences between them.
 
 ### When Should We Use Each Of Them?
 
+One of the main differences as to why you would want to use each type of 'as a service' depends on how much control one wants (see above image), thus catering towards different use cases. For example, IaaS avoids the complexity and expense of buying and managing one's own physical servers and other data centre infrastructure, and allows one to only rent what one needs which could be especially useful for businesses starting up.
+
+
+SaaS  allows users to connnext to and use cloud-based apps over the internet, such as email and office tools (such as in Microsoft Office 365). Essentially a pay-as-you-go basis again, with all the underlying infrastructure, middleware, app software and app data are located in the service provider's data centre.
+
+PaaS is just like IaaS, but include all middleware, development tools, data management and more. It is designed to support the complete web application life cycle: building, deploying, managing, and updating. Avoids the expense and complexity of buying and managing everything!
 
 ## On Premises, Hybrid and Public Clouds
 
