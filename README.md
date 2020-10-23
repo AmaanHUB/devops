@@ -23,7 +23,7 @@ DevOps bridges the gap between the historically isolated development and operati
 	* AWS SSS, EC2 etc.
 	* GCP
 	* DigitalOcean Droplets
-	* Hertzner
+	* Hetzner
 
 ## Cloud Computing
 
